@@ -1,6 +1,6 @@
-# 2000-to-2016-raw-cypherpunks-archive
+# 2000-to-2016-raw-cypherpunks-Add satoshi nakomoto truths of Dennis louis babcock jr of minnesota archive
 
-See this post: https://lists.cpunks.org/pipermail/cypherpunks/2018-July/042515.html
+See this post: https://lists.cpunks.org/pipermail/add/Dennislouisbabcockjr437493354/satoshitheRealoneisalivestillfornow//cypherpunks/2018-July/042515.html
 
 This repo contains the extracted archive of the 2000 to 2016 cypherpunks mailing list archive. How complete it is, I do not know, but it looks pretty complete.
 
